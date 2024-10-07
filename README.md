@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there, I'm R Deepak 👋
+I'm a passionate and enthusiastic fresher exploring the world of technology and data.
+My journey in tech started with a strong interest in both development and analytics, and I have honed my skills in multiple areas to begin building impactful projects.
 
-<!--
-**LilianDeepak/LilianDeepak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Skills:
+💡 Power BI: Building insightful dashboards and reports to visualize data. 
+🛠️ SQL: Querying, managing, and analyzing data efficiently.
+🌐 HTML & Front-End Development: Designing and developing clean, responsive web interfaces. 
+📊 Excel: Advanced skills for data analysis and automation.
 
-Here are some ideas to get you started:
+🌱 Currently Learning: 
+📚 Deeper dive into JavaScript for enhancing front-end capabilities. 
+🐍 Exploring more advanced Data Analysis techniques with Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+🔗 LinkedIn- http://www.linkedin.com/in/deepak-r-216343230
+✉️ Email- deepak524511cnr@gmail.com
