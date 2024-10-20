@@ -1,6 +1,15 @@
 # 💫 About Me:
 <img align="right" height="130" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
-Hi there, I'm R Deepak 👋 I'm a passionate and enthusiastic fresher exploring the world of technology and data. My journey in tech started with a strong interest in both development and analytics, and I have honed my skills in multiple areas to begin building impactful projects.<br><br>🚀 Skills: 💡 Power BI: Building insightful dashboards and reports to visualize data. 🛠️ SQL: Querying, managing, and analyzing data efficiently. 🌐 HTML & Front-End Development: Designing and developing clean, responsive web interfaces. 📊 Excel: Advanced skills for data analysis and automation.<br><br>🌱 Currently Learning: 📚 Deeper dive into JavaScript for enhancing front-end capabilities. 🐍 Exploring more advanced Data Analysis techniques with Python.<br><br>📫 How to reach me: ✉️ Email- deepak524511cnr@gmail.com
+Hi there, I'm R Deepak 
+👋 I'm a passionate and enthusiastic fresher exploring the world of technology and data. My journey in tech started with a strong interest in both development and analytics, and I have honed my skills in multiple areas to begin building impactful projects.<br>
+<br>🚀 Skills: 
+💡 Power BI: Building insightful dashboards and reports to visualize data. 
+🛠️ SQL: Querying, managing, and analyzing data efficiently. 
+🌐 HTML & Front-End Development: Designing and developing clean, responsive web interfaces. 
+📊 Excel: Advanced skills for data analysis and automation.<br>
+<br>🌱 Currently Learning: 📚 Deeper dive into JavaScript for enhancing front-end capabilities. 
+🐍 Exploring more advanced Data Analysis techniques with Python.<br>
+<br>📫 How to reach me: ✉️ Email- deepak524511cnr@gmail.com
 
 
 ## 🌐 Socials:
