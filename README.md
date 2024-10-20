@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" height="130" src="https://i.pinimg.com/originals/79/75/55/797555922a719c6a4082158d3f1a51f4.gif" />
+<img align="right" height="130" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 Hi there, I'm R Deepak 
 👋 I'm a passionate and enthusiastic fresher exploring the world of technology and data. My journey in tech started with a strong interest in both development and analytics, and I have honed my skills in multiple areas to begin building impactful projects.<br>
 <br>🚀 Skills: 
